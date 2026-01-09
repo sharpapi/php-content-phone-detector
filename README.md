@@ -87,19 +87,28 @@ try {
 
 ## Example Response
 ```json
+
 {
-  "data": {
-    "type": "api_job_result",
-    "id": "job-id-here",
-    "attributes": {
-      "status": "success",
-      "type": "content_processing",
-      "result": {
-        "content": "Processed result content here..."
-      }
+    "data": {
+        "type": "api_job_result",
+        "id": "d43b36dc-3d1d-4ba7-9a17-36a438d91f09",
+        "attributes": {
+            "status": "success",
+            "type": "content_detect_phones",
+            "result": [
+                {
+                    "parsed_number": "+18003947486",
+                    "detected_number": "1800-394-7486"
+                },
+                {
+                    "parsed_number": "+6588888888",
+                    "detected_number": "+65 8888 8888"
+                }
+            ]
+        }
     }
-  }
 }
+
 ```
 ---
 
