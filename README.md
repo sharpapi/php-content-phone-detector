@@ -16,7 +16,7 @@ Check the full documentation on the [Content Phone Detector API for PHP API](htt
 | Resource | Link |
 |----------|------|
 | **Main API Documentation** | [Authorization, Webhooks, Polling & More](https://documenter.getpostman.com/view/31106842/2s9Ye8faUp) |
-| **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGsVd) |
+| **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGsVh) |
 | **Product Details** | [SharpAPI.com](https://sharpapi.com/en/catalog/ai/content-marketing-automation/phone-numbers-detector) |
 | **SDK Libraries** | [GitHub - SharpAPI SDKs](https://github.com/sharpapi) |
 
